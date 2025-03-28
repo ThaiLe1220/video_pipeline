@@ -1,0 +1,7 @@
+requests
+tqdm
+python-dotenv
+google-genai
+opencv-python
+tiktoken
+replicate

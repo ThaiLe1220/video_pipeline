@@ -4,3 +4,5 @@ temp
 .DS_Store
 src
 image.jpg
+__pycache__
+.vscode
